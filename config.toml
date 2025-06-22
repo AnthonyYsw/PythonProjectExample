@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my_project"
+version = "1.0.0"
+description = "A sample Python project"
+
+[owner]
+name = "Anthony Yang"
+
+[[authors]]
+name = "Anthony"
+email = "anthony.yang.22@ucl.ac.uk"
+
+# add more authors here if needed
+
+# [[authors]]
+# name = "example author"
+# email = "example.author@example.com"
+
+
+
