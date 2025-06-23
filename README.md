@@ -148,4 +148,4 @@ It's annoying to put the code files and data files together, especially when you
 
 Other folders like `imgs/` is helpful. If you are managing a LaTeX project, you will definetly benefit from it.
 
-Add more if it's necessary. 
+Add more if it's necessary.
