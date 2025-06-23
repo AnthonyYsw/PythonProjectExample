@@ -1,5 +1,7 @@
 # This .gitignore file is adapted from https://github.com/github/gitignore.git.
 
+imgs/
+
 # macOS
 .DS_Store
 .AppleDouble
