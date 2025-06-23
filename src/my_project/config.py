@@ -1,3 +1,5 @@
+# This file is to configure the project settings. It loads configuration from a TOML file located two directories up from this file.
+
 import tomllib
 import os
 
